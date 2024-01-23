@@ -1,0 +1,116 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vendor_Review_System
+build_property.RootNamespace = Vendor_Review_System
+build_property.ProjectDir = E:\Wipro-FirstProject\Vendor Review System\Vendor Review System\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Wipro-FirstProject\Vendor Review System\Vendor Review System
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/FoodieDetails/foodet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZGllRGV0YWlsc1xmb29kZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/FoodieReg/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZGllUmVnXFNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/FoodieReview/foorev.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZGllUmV2aWV3XGZvb3Jldi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/foovierev/foovr.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZm9vdmllcmV2XGZvb3ZyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/GenerateReport/report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZXJhdGVSZXBvcnRccmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/UsersLogin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNMb2dpblxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorDetails/activate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yRGV0YWlsc1xhY3RpdmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorDetails/deactivate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yRGV0YWlsc1xkZWFjdGl2YXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorDetails/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yRGV0YWlsc1xkZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorDetails/vendet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yRGV0YWlsc1x2ZW5kZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorRequest/accept.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yUmVxdWVzdFxhY2NlcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorRequest/reject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yUmVxdWVzdFxyZWplY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/VendorRequest/venreq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yUmVxdWVzdFx2ZW5yZXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Venreg/pay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVucmVnXHBheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Venreg/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVucmVnXFNpZ251cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/ViewComplaint/viewcom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0NvbXBsYWludFx2aWV3Y29tLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/ViewReview/viewrev.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld1Jldmlld1x2aWV3cmV2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Wipro-FirstProject/Vendor Review System/Vendor Review System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ew72ji5q33
